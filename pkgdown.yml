@@ -1,0 +1,8 @@
+pandoc: 3.1.11
+pkgdown: 2.2.0
+pkgdown_sha: ~
+articles: {}
+last_built: 2025-11-21T23:45Z
+urls:
+  reference: https://arjunkumar2004.github.io/sparseNumeric/reference
+  article: https://arjunkumar2004.github.io/sparseNumeric/articles
