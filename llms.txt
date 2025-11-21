@@ -2,6 +2,8 @@
 
 \##sparseNumeric
 
+[![R-CMD-check](https://github.com/ArjunKumar2004/sparseNumeric/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/ArjunKumar2004/sparseNumeric/actions/workflows/R-CMD-check.yaml)
+
 sparseNumeric provides an S4 class, sparse_numeric, for representing
 numeric vectors in sparse form. Only nonzero entries are stored, along
 with their positions and the full vector length. The package includes
