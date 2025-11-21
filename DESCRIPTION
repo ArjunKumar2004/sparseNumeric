@@ -25,3 +25,4 @@ Suggests:
     rmarkdown
 Config/testthat/edition: 3
 RoxygenNote: 7.3.3
+URL: https://arjunkumar2004.github.io/sparseNumeric/
