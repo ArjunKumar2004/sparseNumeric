@@ -1,0 +1,27 @@
+Package: sparseNumeric
+Type: Package
+Title: Sparse Numeric Vectors with Fast Algebra
+Version: 0.1.0
+Authors@R: 
+    person("Arjun", "Kumar",
+           email = "arjamikum@utexas.edu",
+           role = c("aut", "cre"))
+Description: Provides an S4 class for sparse numeric vectors and
+    methods for common vector operations without densifying,
+    including addition, subtraction, elementwise multiplication,
+    dot products, means, Euclidean norms, and standardization.
+    Intended for teaching and lightweight sparse computations.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+    methods,
+    stats
+Suggests:
+    testthat (>= 3.0.0),
+    covr,
+    pkgdown,
+    knitr,
+    rmarkdown
+Config/testthat/edition: 3
+
